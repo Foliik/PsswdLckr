@@ -1,13 +1,5 @@
 #!/bin/python3
 
-"""
-Script para almacenar cuentas.
-Opcion de copiar nombre de cuenta y clave al clipboard.
-
-TODO: crear una GUI.
-
-"""
-
 import os
 import sys
 import pyperclip as pc
